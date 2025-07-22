@@ -25,3 +25,5 @@ Thumbs.db
 # Assets you don't want in GitHub (raw PSDs, temp images)
 assets/*.psd
 assets/tmp/
+
+.idea/
