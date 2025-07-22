@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+.venv/
+venv/
+
+# Logs
+*.log
+
+# System / OS junk
+.DS_Store
+Thumbs.db
+
+# IDE files (optional)
+.vscode/
+.idea/
+
+# Git folders
+.gitignore
+*.swp
+
+# Assets you don't want in GitHub (raw PSDs, temp images)
+assets/*.psd
+assets/tmp/
